@@ -8,7 +8,7 @@
 * Clone the repository from github to a directory.
 * Navigate to the root of the directory and run the following command from terminal:
         
-        mvn clean build test
+        mvn clean test
         
 # To do:
 * An abstract class that holds the helper methods like waiting for elements.
